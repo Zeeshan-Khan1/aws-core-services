@@ -31,4 +31,4 @@ By the end of this guide, you will be able to:
 
 Found a typo or have a suggestion for a better demo? Feel free to submit an Issue or a Pull Request. Contributions are welcome!
 
-**Start your journey:** [Introduction to Cloud Computing](./SECTION-1-INTRODUCTION/01-introduction-to-cloud-computing.md
+**Start your journey:**
