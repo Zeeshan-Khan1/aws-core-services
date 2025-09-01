@@ -108,7 +108,7 @@ In this demo, you successfully:
 4.  Ran basic commands to update software and install a web server.
 5.  Cleaned up by terminating the instance.
 
-This is the foundational workflow for working with virtual servers in AWS.
+This is the foundational workflow for working with virtual servers in AWS:
 
 ---
 
