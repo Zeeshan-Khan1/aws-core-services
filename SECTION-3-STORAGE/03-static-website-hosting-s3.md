@@ -1,4 +1,4 @@
-# 11. Static Web Site Hosting in S3
+# 03. Static Web Site Hosting in S3
 
 ## Hosting a Website Directly from a Cloud Bucket
 
@@ -33,4 +33,4 @@ When you enable static website hosting, S3 provides you with a special website e
 
 ---
 
-**Next:** [Simple Hosting of a WordPress Site](../SECTION-4-DATABASES/12-wordpress-on-ec2.md)
+**Next:** [Simple Hosting of a WordPress Site](../SECTION-4-DATABASES/01-wordpress-on-ec2.md)
