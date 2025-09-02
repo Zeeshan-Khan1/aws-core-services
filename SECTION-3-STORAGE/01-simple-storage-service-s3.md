@@ -32,4 +32,4 @@ S3 provides a very straightforward, web-based interface and a simple API (`GET`,
 
 ---
 
-**Next:** [S3 - Demo](./10-s3-demo.md)
+**Next:** [S3 - Demo](./02-s3-demo.md)
