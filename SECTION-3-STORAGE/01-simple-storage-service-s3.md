@@ -1,4 +1,4 @@
-# 9. Simple Storage Service (S3)
+# 01. Simple Storage Service (S3)
 
 ## Unlimited, Durable Cloud Object Storage
 
