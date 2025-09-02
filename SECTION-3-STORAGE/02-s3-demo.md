@@ -1,4 +1,4 @@
-# 03. Simple Storage Service - Demo
+# 02. Simple Storage Service - Demo
 
 ## Creating Your First S3 Bucket and Uploading Files
 
