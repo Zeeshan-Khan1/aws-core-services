@@ -1,4 +1,4 @@
-# 10. Simple Storage Service - Demo
+# 03. Simple Storage Service - Demo
 
 ## Creating Your First S3 Bucket and Uploading Files
 
@@ -93,4 +93,4 @@ You have now performed the fundamental workflow of Amazon S3.
 
 ---
 
-**Next:** [Static Website Hosting in S3](./11-static-website-hosting-s3.md)
+**Next:** [Static Website Hosting in S3](./03-static-website-hosting-s3.md)
