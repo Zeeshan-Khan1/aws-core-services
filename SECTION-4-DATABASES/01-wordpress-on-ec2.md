@@ -1,6 +1,6 @@
 # 01. Simple Hosting of a WordPress Site
 
-## Leveraging EC2 for Dynamic Websites
+## Leveraging EC2 for Dynamic Websites:
 
 While S3 is perfect for static sites, hosting a **dynamic website** like WordPress—which requires a server, a database, and server-side processing (PHP)—requires a compute service. This is where **EC2** comes in.
 
