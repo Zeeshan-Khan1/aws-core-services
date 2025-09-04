@@ -1,0 +1,43 @@
+# 01. Serverless Architecture
+
+## Building Applications Without Thinking About Servers
+
+Serverless is a cloud-native development model that allows developers to build and run applications without having to manage servers. The name is slightly misleading—there are still servers involved, but all the server management and capacity planning is handled by the cloud provider.
+
+## Core Principles
+
+*   **No Server Management:** You don't provision, scale, or maintain any servers. The cloud provider does this for you.
+*   **Event-Driven:** Functions are executed in response to events (e.g., an HTTP request, a file upload, a database change).
+*   **Automatic Scaling:** Applications scale automatically (and instantly) from zero to thousands of concurrent executions.
+*   **Pay-Per-Use:** You are billed based on the number of requests and the compute time consumed (down to the millisecond). There is no charge when your code is not running.
+
+## Key AWS Serverless Services
+
+*   **AWS Lambda:** The core compute service. Runs your code in response to events.
+*   **Amazon API Gateway:** Creates RESTful APIs that trigger Lambda functions.
+*   **Amazon DynamoDB:** A fast and flexible serverless NoSQL database.
+*   **Amazon S3:** Serverless object storage.
+*   **AWS Step Functions:** Coordinates multiple Lambda functions into serverless workflows.
+
+## Benefits
+
+1.  **Reduced Operational Overhead:** Focus on writing code, not managing infrastructure.
+2.  **Built-in Scalability:** Handles traffic spikes effortlessly.
+3.  **Cost Efficiency:** Eliminates costs from idle servers. You only pay for the compute time you consume.
+4.  **Faster Time to Market:** Simplifies the deployment process, allowing for quicker iteration.
+
+## Use Cases
+
+-   **RESTful APIs:** Backends for web and mobile apps.
+-   **Data Processing:** Processing files uploaded to S3 (e.g., image thumbnailing, video transcoding).
+-   **Scheduled Tasks/Cron Jobs:** Running tasks at a specific time.
+-   **Chatbots:** Backend logic for conversational interfaces.
+-   **IoT Backends:** Processing data from IoT sensors.
+
+## The "Serverless" Mindset
+
+The goal is to break down your application into small, single-purpose **functions** that are triggered by **events**. This is often called **Function-as-a-Service (FaaS)**.
+
+---
+
+**Next:** [DynamoDB](./16-dynamodb.md)
