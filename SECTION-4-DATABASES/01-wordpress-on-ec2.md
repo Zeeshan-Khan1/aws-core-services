@@ -1,4 +1,4 @@
-# 01. Simple Hosting of a WordPress Site
+# 01. Simple Hosting of a WordPress Site:
 
 ## Leveraging EC2 for Dynamic Websites:
 
