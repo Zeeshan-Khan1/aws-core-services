@@ -1,4 +1,4 @@
-# 18. AWS Lambda
+# 01. AWS Lambda
 
 ## Run Code Without Thinking About Servers
 
