@@ -1,4 +1,4 @@
-# 19. AWS Lambda - Demo
+# 02. AWS Lambda - Demo
 
 ## Creating and Testing Your First Serverless Function
 
