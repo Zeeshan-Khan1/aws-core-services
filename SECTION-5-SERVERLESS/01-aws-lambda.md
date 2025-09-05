@@ -18,7 +18,7 @@ AWS Lambda is a compute service that lets you run code without provisioning or m
 *   **Subsecond Metering:** You are billed for every 1ms of compute time and the number of times your code is executed.
 *   **Integrated with AWS:** Can be directly triggered by over 200 AWS services.
 
-## Common Use Cases
+## Common Use Cases:
 
 -   **Real-time File Processing:** Trigger a Lambda function when a file is uploaded to S3 (e.g., to create thumbnails).
 -   **Real-time Stream Processing:** Process data streams from Amazon Kinesis.
