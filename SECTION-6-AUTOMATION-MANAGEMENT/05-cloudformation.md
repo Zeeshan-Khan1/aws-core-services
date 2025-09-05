@@ -1,4 +1,4 @@
-# 24. CloudFormation
+# 05. CloudFormation
 
 ## Infrastructure as Code (IaC) on AWS
 
