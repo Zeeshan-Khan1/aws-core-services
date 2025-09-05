@@ -27,4 +27,4 @@ These services form the backbone of DevOps practices on AWS, enabling continuous
 
 ---
 
-**Next:** [Elastic Beanstalk](./21-elastic-beanstalk.md)
+**Next:** [Elastic Beanstalk](./02-elastic-beanstalk.md)
