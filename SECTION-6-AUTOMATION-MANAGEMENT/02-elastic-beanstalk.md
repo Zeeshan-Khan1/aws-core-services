@@ -1,4 +1,4 @@
-# 21. Elastic Beanstalk
+# 02. Elastic Beanstalk
 
 ## The Easiest Way to Deploy Web Applications
 
