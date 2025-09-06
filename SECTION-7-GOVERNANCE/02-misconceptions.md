@@ -1,4 +1,4 @@
-# 02. Misconceptions
+# 02. Misconceptions:
 
 ## Clarifying Common Cloud Misunderstandings
 
